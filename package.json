@@ -1,0 +1,35 @@
+{
+  "name": "staticseek-react",
+  "version": "0.1.0",
+  "description": "A React component for staticseek",
+  "module": "dist/staticseek-react.js",
+  "types": "dist/staticseek-react.d.ts",
+  "type": "module",
+  "author": {
+    "name": "osawa naotaka"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/osawa-naotaka/staticseek-react",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "check": "biome check ./src ./lib",
+    "check-write": "biome check --write ./src ./lib",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "staticseek": "^2.1.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "globals": "^15.14.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.1.0",
+    "vite-plugin-dts": "^4.5.0"
+  }
+}
