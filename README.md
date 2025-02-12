@@ -5,7 +5,7 @@ A React component wrapper for [staticseek], providing easy integration of full-t
 ## Installation
 
 ```bash
-npm install staticseek-react staticseek
+npm install staticseek-react
 ```
 
 ## Quick Start
