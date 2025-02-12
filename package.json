@@ -5,6 +5,7 @@
   "module": "dist/staticseek-react.js",
   "types": "dist/staticseek-react.d.ts",
   "type": "module",
+  "main": "lib/index.ts",
   "author": {
     "name": "osawa naotaka"
   },
