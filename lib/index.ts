@@ -1,2 +1,3 @@
 import StaticSeek from "./StaticSeek";
-export { StaticSeek };
+export default StaticSeek;
+

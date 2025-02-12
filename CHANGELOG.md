@@ -13,8 +13,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [0.1.1] - 2025-02-12
+### Fixed
+- fix export bugs.
+
 ## [0.1.0] - 2025-02-12
 ### Added
 - initial implement of StaticSeek Component.
 
-[Unreleased]: https://github.com/osawa-naotaka/staticseek-react/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/osawa-naotaka/staticseek-react/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/osawa-naotaka/staticseek-react/compare/v0.1.0...v0.1.1
