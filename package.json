@@ -1,6 +1,6 @@
 {
   "name": "staticseek-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React component for staticseek",
   "module": "dist/staticseek-react.js",
   "types": "dist/staticseek-react.d.ts",
